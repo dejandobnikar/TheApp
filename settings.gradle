@@ -1,0 +1,4 @@
+include ':thelib2'
+include ':thelib1'
+include ':app'
+rootProject.name = "TheApp"
